@@ -1,0 +1,17 @@
+Click
+Flask
+gunicorn==20.1.0
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+joblib==1.2.0
+keras==2.11.0
+matplotlib
+numpy
+Pillow
+tensorflow-cpu
+scikit-learn
+pandas
+keras
+opencv-python-headless
